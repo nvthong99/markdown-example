@@ -1,1 +1,10 @@
-# markdown-example
+```javascript
+const henry = {
+        girFriends: [
+            {
+              name: "Thảo",
+              show: false
+            }
+        ]
+}
+```
